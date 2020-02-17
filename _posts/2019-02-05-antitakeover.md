@@ -1,6 +1,7 @@
 ---
 title: 'Antitakeover Provisions and Firm Value: New Evidence from the M&A Market'
 date: 2019-02-05
+is_blog: true
 permalink: /posts/2012/08/antitakeover-provisions-and-firm-value-new-evidence-from-the-m-a-market/
 excerpt: 'A vast literature studies the effects of antitakeover provisions (ATPs) on firm value. The academic consensus is that ATPs harm firm value because they partly insulate managers from the threat of takeover, and that view has become very influential.'
 ---
