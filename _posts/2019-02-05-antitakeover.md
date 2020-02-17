@@ -3,10 +3,6 @@ title: 'Antitakeover Provisions and Firm Value: New Evidence from the M&A Market
 date: 2019-02-05
 permalink: /posts/2012/08/antitakeover-provisions-and-firm-value-new-evidence-from-the-m-a-market/
 excerpt: 'A vast literature studies the effects of antitakeover provisions (ATPs) on firm value. The academic consensus is that ATPs harm firm value because they partly insulate managers from the threat of takeover, and that view has become very influential.'
-tags:
-  - cool posts
-  - category1
-  - category2
 ---
 
 A vast literature studies the effects of antitakeover provisions (ATPs) on firm value. The academic consensus is that ATPs harm firm value because they partly insulate managers from the threat of takeover, and that view has become very influential. Prominent studies find that empire building through corporate acquisitions is the main channel of value destruction by entrenched managers (Masulis, Wang, and Xie, 2007; Harford, Humphery-Jenner, and Powell, 2012). Managers protected by ATPs are more likely to pursue self-interested deals that further increase their entrenchment, which harms shareholder value. A major limitation of the existing empirical studies  is their reliance on a single data set, the Investor Responsibility Research Center (IRRC) data, although it is well established that market effects of corporate governance are context-specific (Karpoff and Whittry, 2018).
