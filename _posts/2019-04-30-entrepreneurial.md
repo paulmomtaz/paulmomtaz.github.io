@@ -4,6 +4,8 @@ date: 2019-04-30
 is_blog: true
 permalink: /posts/2019/04/entrepreneurial-finance-and-moral-hazard-evidence-from-token-offerings/
 excerpt: 'Token Offerings or Initial Coin Offerings (ICOs) are a rapidly growing market, with more than 4,500 transactions in 2018 alone. However, there is also substantial fraudulent activity spurred by the absence of regulation.'
+source_blog_: 'The FinReg Blog'
+source_blog_link_: 'https://sites.duke.edu/thefinregblog/2019/04/30/entrepreneurial-finance-and-moral-hazard-evidence-from-token-offerings/'
 ---
 
 Token Offerings or Initial Coin Offerings (ICOs) are a rapidly growing market, with more than 4,500 transactions in 2018 alone. However, there is also substantial fraudulent activity spurred by the absence of regulation. My new paper, Entrepreneurial Finance and Moral Hazard: Evidence from Token Offerings, explores a very subtle, hard-to-track form of fraud: a moral hazard in signaling. I argue that, in token offerings, issuers plausibly have an incentive to bias signals of venture quality to their advantage because there currently are neither functioning institutions that verify signals ex ante nor are there those that punish signals ex post once the bias is detected. If investors are attracted to ventures with the most positive signals and fail to identify biased ones, then firms not sending biased signals may experience a competitive disadvantage.  This effectively creates a moral hazard in signaling.
