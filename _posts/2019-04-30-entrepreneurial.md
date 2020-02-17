@@ -1,6 +1,7 @@
 ---
 title: 'Entrepreneurial Finance and Moral Hazard: Evidence from Token Offerings'
 date: 2019-04-30
+is_blog: true
 permalink: /posts/2019/04/entrepreneurial-finance-and-moral-hazard-evidence-from-token-offerings/
 excerpt: 'Token Offerings or Initial Coin Offerings (ICOs) are a rapidly growing market, with more than 4,500 transactions in 2018 alone. However, there is also substantial fraudulent activity spurred by the absence of regulation.'
 ---
