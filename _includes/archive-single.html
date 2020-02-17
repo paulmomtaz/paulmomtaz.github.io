@@ -47,11 +47,20 @@
         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+      <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
+
+    {% if post.journal %}
+      <p class="archive__item-journal">{{ post.journal }}</p>
+    {% endif %}
+   
     
+    {% if post.version != "" %}
+      <p>{{ post.version }}</p> 
+    {% endif %}
+
     {% if post.abstract %}
       <p style="font-size:13px;"><strong>Abstract:</strong> {{ post.abstract }}
           {% if post.externalabstract %}
