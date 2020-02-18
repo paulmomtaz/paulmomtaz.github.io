@@ -10,3 +10,16 @@ excerpt: 'This is the econometrics module that I taught in the PhD program at Ha
 ---
 
 This is the econometrics module that I taught in the PhD program at Hamburg Business School, University of Hamburg, Germany in 2018.
+
+[Introduction to Mathematical Static](/assets/bcb45c_00d5fa33ead94e4296defd51872a40b4.pdf) directly.
+[Instrumental Variables](/assets/bcb45c_333497595afa4f0bb908c300bee0c795.pdf) directly.
+[Causality](/assets/bcb45c_3a07c878b9f74cde902b1ca58bd4194f.pdf) directly.
+[Angrist-Imbens-Rubin Framework](/assets/bcb45c_5fe385b21bcf479984644948b8d4bdb4.pdf) directly.
+[Matching](/assets/bcb45c_3fd8ced3c19d4b829ddb3a016290b9d3.pdf) directly.
+[Difference-in-differences](/assets/bcb45c_4526685377e54a94a3155d47f5526897.pdf) directly.
+[Synthetic Controls](/assets/bcb45c_26868b360a654540b3cea3372710b76e.pdf) directly.
+[Regression Discontinuity Designs](/assets/bcb45c_f93e21e6c49942aca719d2ee27072016.pdf) directly.
+[Panel Data](/assets/bcb45c_883c4547b3894867b4ec644e09834f31.pdf) directly.
+[Bootstrap](/assets/bcb45c_fd5759a0802b4e5fa69d1f2660f2c54a.pdf) directly.
+[Binary Choice Models](/assets/bcb45c_67329f51dc23438287e93b7e0237cffa.pdf) directly.
+[Multi-Response Models](/assets/bcb45c_ad07024ff34c4e95836b21503daae2df.pdf) directly.
