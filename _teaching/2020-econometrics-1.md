@@ -11,7 +11,7 @@ excerpt: 'This is the econometrics module that I taught in the PhD program at Ha
 
 This is the econometrics module that I taught in the PhD program at Hamburg Business School, University of Hamburg, Germany in 2018.
 
-[Lecture 1: Introduction to Mathematical Static](/files/bcb45c_00d5fa33ead94e4296defd51872a40b4.pdf)<br />
+[Lecture 1: Introduction to Mathematical Statics](/files/bcb45c_00d5fa33ead94e4296defd51872a40b4.pdf)<br />
 [Lecture 2: Instrumental Variables](/files/bcb45c_333497595afa4f0bb908c300bee0c795.pdf)<br />
 [Lecture 3: Causality](/files/bcb45c_3a07c878b9f74cde902b1ca58bd4194f.pdf)<br />
 [Lecture 4: Angrist-Imbens-Rubin Framework](/files/bcb45c_5fe385b21bcf479984644948b8d4bdb4.pdf)<br />
