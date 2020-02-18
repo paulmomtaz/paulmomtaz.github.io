@@ -1,8 +1,8 @@
 ---
 title: "Econometrics"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+type: "PhD course"
+permalink: /teaching/2018-Econometrics-1
 venue: "Hamburg Business School, University of Hamburg"
 date: 2020-02-16
 location: "Hamburg, Germany"
