@@ -2,7 +2,7 @@
 title: 'CEO Emotions and Firm Valuation in Initial Coin Offerings: An Artificial Emotional Intelligence Approach'
 collection: wp
 date: 2019-12-31
-permalink: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3305765'
+url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3305765'
 excerpt: ''
 venue: ''
 paperurl: 'https://poseidon01.ssrn.com/delivery.php?ID=407026027094100098093096028122001109116084085079093023074100113105026103117066065010048042116060045034000102116117000101085019000017091018092098094077074097069018026014048001102115085123100102087122068078029103074117125002017073067109122026091077074001&EXT=pdf'
