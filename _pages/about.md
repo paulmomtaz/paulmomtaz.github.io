@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -24,4 +24,3 @@ News
 - I have co-organized the <a href="https://www.cryptovalleyconference.com/economics-finance-call-for-papers" target="_blank">Crypto Valley Conference</a> 2019 in Zug, Switzerland, the largest conference on crypto economics.
 
 - I have accepted an invite to edit a special issue on Token Offerings in <a href="https://jai.pm-research.com/content/21/4" target="_blank">The Journal of Alternative Investments</a>.
----
