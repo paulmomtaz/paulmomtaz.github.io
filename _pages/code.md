@@ -1,12 +1,9 @@
 ---
-layout: archive
-title: "Code"
-permalink: /code/
+permalink: /data/
+title: "Data"
+excerpt: ""
 author_profile: true
+
 ---
-
-{% include base_path %}
-
-{% for post in site.code reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+ 
+Most of my research relies on hand-collected data. Because of GDPR-induced uncertainty, I do not make public any data at the moment.
