@@ -1,9 +1,9 @@
 ---
-permalink: /data
-title: " "
-excerpt: " "
+permalink: /data/
+title: ""
+excerpt: ""
 author_profile: true
 
 ---
  
- Hi
+&nbsp;
