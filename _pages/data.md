@@ -1,6 +1,6 @@
 ---
 permalink: /data/
-title: ""
+title: "Data"
 excerpt: ""
 author_profile: true
 
