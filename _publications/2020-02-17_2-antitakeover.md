@@ -1,7 +1,7 @@
 ---
 title: 'Antitakeover Provisions and Firm Value: New Evidence from the M&A Market'
 collection: publications
-url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3315730'
+external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3315730'
 excerpt: ''
 venue: ''
 paperurl: 'https://poseidon01.ssrn.com/delivery.php?ID=397083094070025080084099081116027025033019063049002037010087017109110121064082003105123000022020108121118066084098102029005126098042069049011112025070092000121124019069064013127091104081114119024085024024114066102016007064073105093069000019090107084108&EXT=pdf'
