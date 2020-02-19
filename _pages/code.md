@@ -1,10 +1,12 @@
 ---
-permalink: /code/
+layout: archive
 title: ""
-excerpt: ""
+permalink: /code/
 author_profile: true
-
 ---
- 
 
-&nbsp;
+{% include base_path %}
+
+{% for post in site.code reversed %}
+  {% include archive-single.html %}
+{% endfor %}
