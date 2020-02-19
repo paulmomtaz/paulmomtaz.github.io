@@ -1,6 +1,6 @@
 ---
 permalink: /code
-title: ""
+title: " "
 excerpt: " "
 author_profile: true
 
