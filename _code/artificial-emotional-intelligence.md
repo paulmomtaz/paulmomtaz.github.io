@@ -1,17 +1,8 @@
 ---
-title: 'Teaching experience 1'
+title: 'Artificial Emotional Intelligence'
 collection: teaching
-type: 'Undergraduate course'
-permalink: /teaching/2014-spring-teaching-1
-venue: 'University 1, Department'
-date: 2014-01-01
-location: 'City, Country'
+permalink: /code/artificial-emotional-intelligence
+date: 2020-02-19
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-# Heading 1
-
-# Heading 2
-
-# Heading 3
+This is an R script that I used in my paper CEO Emotions and Firm Valuation in Initial Coin Offerings: An Artificial Emotional Intelligence Approach which computes the seven basic Ekman (1999) emotions from facial muscle contraction-relaxation patterns based on Microsoft's Face API.
