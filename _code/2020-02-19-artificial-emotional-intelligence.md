@@ -1,6 +1,6 @@
 ---
 title: "Artificial Emotional Intelligence"
-collection: code
+collection: teaching
 type: ""
 permalink: /code/artificial-emotional-intelligence
 venue: ""
