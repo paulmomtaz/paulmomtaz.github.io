@@ -14,3 +14,5 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<a href="{{ base_path }}/other-publications" rel="permalink">Other Publications</a>
