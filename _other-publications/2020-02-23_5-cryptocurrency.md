@@ -1,0 +1,16 @@
+---
+title: 'Corporate governance convergence in the European M&A market'
+collection: other-publications
+external_url: 'https://www.sciencedirect.com/science/article/abs/pii/S1544612318306421?via%3Dihub'
+excerpt: ''
+venue: ''
+paperurl: ''
+abstracturl: 'https://www.sciencedirect.com/science/article/abs/pii/S1544612318306421?via%3Dihub'
+externalabstract: true
+journal: '(with <a href="https://www.bwl.uni-hamburg.de/finance/team/drobetz.html
+">Wolfgang Drobetz</a>)'
+version: ''
+abstract: 'Cross-border acquisitions lead to improvements in shareholder rights and more dispersed ownership structures in a large sample of intra-European takeovers. These findings are evidence of corporate governance convergence toward the Anglo-Saxon system through cross-border takeovers. However, we find no support for the corporate governance motive hypothesis in cross-border acquisitions even after accounting for potential sample selectivity. Although acquirers have significantly better shareholder rights than their targets, there are no robust marginal bidder wealth effects for firms that acquire either weaker or stronger governance foreign targets. Instead, bidder wealth effects in cross-border acquisitions are better explained by acculturation costs.'
+---
+
+Abstract: Cross-border acquisitions lead to improvements in shareholder rights and more dispersed ownership structures in a large sample of intra-European takeovers. These findings are evidence of corporate governance convergence toward the Anglo-Saxon system through cross-border takeovers. However, we find no support for the corporate governance motive hypothesis in cross-border acquisitions even after accounting for potential sample selectivity. Although acquirers have significantly better shareholder rights than their targets, there are no robust marginal bidder wealth effects for firms that acquire either weaker or stronger governance foreign targets. Instead, bidder wealth effects in cross-border acquisitions are better explained by acculturation costs.
