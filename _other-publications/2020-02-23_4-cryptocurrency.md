@@ -1,0 +1,15 @@
+---
+title: 'Initial Coin Offerings, Asymmetric Information, and Loyal CEOs'
+collection: other-publications
+external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3167061'
+excerpt: ''
+venue: ''
+paperurl: ''
+abstracturl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3167061'
+externalabstract: true
+journal: 'Small Business Economics, Forthcoming'
+version: ''
+abstract: 'A defining feature of initial coin offerings (ICOs) is that entrepreneurs bear the full marginal investment cost but profit only partially from the marginal investment payoff. This design may exacerbate agency conflicts inherent in corporate finance. As a consequence, signals of entrepreneurial quality such as CEO loyalty, which is an established concept in social psychology and can easily be linked to potential agency conflicts in corporate settings, might be a first-order determinant of economic outcomes in the ICO market. Consistent with this, I find that loyal CEOs have to offer less financial incentives to attract investors and are still able to raise more proceeds, conduct ICOs more thoroughly, and are less likely to fail. The findings are consistent with the hypothesis that asymmetric information between entrepreneurs and investors entail agency costs that are decreasing in CEO loyalty.'
+---
+
+Abstract: A defining feature of initial coin offerings (ICOs) is that entrepreneurs bear the full marginal investment cost but profit only partially from the marginal investment payoff. This design may exacerbate agency conflicts inherent in corporate finance. As a consequence, signals of entrepreneurial quality such as CEO loyalty, which is an established concept in social psychology and can easily be linked to potential agency conflicts in corporate settings, might be a first-order determinant of economic outcomes in the ICO market. Consistent with this, I find that loyal CEOs have to offer less financial incentives to attract investors and are still able to raise more proceeds, conduct ICOs more thoroughly, and are less likely to fail. The findings are consistent with the hypothesis that asymmetric information between entrepreneurs and investors entail agency costs that are decreasing in CEO loyalty.
