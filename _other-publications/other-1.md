@@ -1,6 +1,6 @@
 ---
 title: 'The Pricing and Performance of Cryptocurrency'
-collection: publications
+collection: other-publications
 external_url: 'https://www.tandfonline.com/doi/full/10.1080/1351847X.2019.1647259'
 excerpt: ''
 venue: ''
