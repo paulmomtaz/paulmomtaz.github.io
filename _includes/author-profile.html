@@ -55,6 +55,9 @@
       {% if author.xing %}
         <li><a href="https://www.xing.com/profile/{{ author.xing }}" target="_blank"><i class="fab fa-fw fa-xing-square" aria-hidden="true"></i> XING</a></li>
       {% endif %}
+      {% if author.ssrn %}
+        <li><a href="{{ author.ssrn }}"><i class="fas fa-graduation-cap" aria-hidden="true"></i> SSRN</a></li>
+      {% endif %}
       {% if author.instagram %}
         <li><a href="https://instagram.com/{{ author.instagram }}"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
       {% endif %}
