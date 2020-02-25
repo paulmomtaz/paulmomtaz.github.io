@@ -21,6 +21,6 @@ News
 ======
 - I have just accepted to join the Scientific Committee of the <a href="https://www.bath.ac.uk/events/the-5th-entrepreneurial-finance-entfin-association-annual-meeting-2020/" target="_blank">Entrepreneurial Finance Association 2020 Meeting</a>. 
 
-- I have co-organized the <a href="https://www.cryptovalleyconference.com/economics-finance-call-for-papers" target="_blank">Crypto Valley Conference</a> 2019 in Zug, Switzerland, the largest conference on crypto economics.
+- I have just accepted to become a permanent member of the Scientifc Committee of the <a href="https://www.cryptovalleyconference.com/economics-finance-call-for-papers" target="_blank">Crypto Valley Conference</a> in Switzerland, the largest conference on crypto economics.
 
 - I have accepted an invite to edit a special issue on Token Offerings in <a href="https://jai.pm-research.com/content/21/4" target="_blank">The Journal of Alternative Investments</a>.
