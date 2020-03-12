@@ -1,7 +1,7 @@
 ---
 title: 'Institutional Investors and post-ICO Performance: An Empirical Analyses of Investor Returns in Initial Coin Offerings (ICOs)'
 collection: wp
-date: 2019-07-30
+date: 2020-03-10
 external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3427025'
 excerpt: ''
 venue: ''
