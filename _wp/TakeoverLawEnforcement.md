@@ -1,7 +1,7 @@
 ---
 title: 'Takeover Law Enforcement and Acquirer Returns'
 collection: wp
-date: 2019-07-30
+date: 2020-03-12
 external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2786409'
 excerpt: ''
 venue: ''
