@@ -11,7 +11,7 @@ redirect_from:
 
 About
 ======
-Thank you for visiting and welcome! My research interests are in corporate finance/M&A/private equity/venture capital and FinTech/blockchain/crpto.
+Thank you for visiting and welcome! My research interests are in corporate and entrepreneurial finance/M&A/private equity/venture capital and FinTech/blockchain/crypto.
 
 Having practical experience from stints in management consulting and banking, I enjoy advising and mentoring start-ups. Before UCLA, I was the head of the global resolution planning office at Commerzbank AG.
 
