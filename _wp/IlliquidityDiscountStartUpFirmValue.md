@@ -1,7 +1,7 @@
 ---
 title: 'The Illiquidity Discount on Start-up Firm Value: Evidence from Venture Capital'
 collection: wp
-date: 2020-03-12
+date: 2020-05-20
 external_url: ''
 excerpt: ''
 venue: ''
