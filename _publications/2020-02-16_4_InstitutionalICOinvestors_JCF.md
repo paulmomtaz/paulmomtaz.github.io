@@ -1,5 +1,5 @@
 ---
-title: 'Institutional Investors and Post-ICO Performance: An Empirical Analyses of Investor Returns in Initial Coin Offerings (ICOs)'
+title: 'Institutional Investors and Post-ICO Performance: An Empirical Analysis of Investor Returns in Initial Coin Offerings (ICOs)'
 collection: publications
 external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3427025'
 excerpt: ''
