@@ -1,5 +1,5 @@
 ---
-title: 'Takeover Law Enforcement and Acquirer Returns'
+title: 'The Economics of Law Enforcement: Quasi-Experimental Evidence from Corporate Takeover Law in Europe'
 collection: wp
 date: 2020-03-12
 external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2786409'
