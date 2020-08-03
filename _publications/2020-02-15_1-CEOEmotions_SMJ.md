@@ -1,6 +1,6 @@
 ---
 title: 'CEO Emotions and Firm Valuation in Initial Coin Offerings: An Artificial Emotional Intelligence Approach'
-collection: wp
+collection: publications
 date: 2010-08-03
 external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3305765'
 excerpt: ''
