@@ -5,7 +5,7 @@ date: 2010-08-03
 external_url: 'https://onlinelibrary.wiley.com/doi/10.1002/smj.3235'
 excerpt: ''
 venue: ''
-paperurl: ''
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2862551'
 abstracturl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2862551'
 externalabstract
 journal: 'Strategic Management Journal, forthcoming'
