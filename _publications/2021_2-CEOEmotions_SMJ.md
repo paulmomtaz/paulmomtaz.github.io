@@ -5,7 +5,7 @@ external_url: 'https://onlinelibrary.wiley.com/doi/10.1002/smj.3235'
 excerpt: ''
 venue: ''
 paperurl: 'https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3580716_code2433926.pdf?abstractid=3305765&mirid=1&type=2'
-abstracturl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2862551'
+abstracturl: 'https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3580716_code2433926.pdf?abstractid=3305765&mirid=1&type=2'
 externalabstract: true
 journal: 'Strategic Management Journal, forthcoming'
 version: ''
