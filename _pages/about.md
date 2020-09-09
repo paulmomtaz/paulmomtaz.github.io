@@ -23,7 +23,7 @@ News
 
 - My current working paper <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2786409" target="_blank">The Economics of Law Enforcement: Quasi-Experimental Evidence from Corporate Takeover Law in Europe</a> is currently nominated for the best paper award in Corporate Finance by the Financial Management Association (FMA), which will have its annual meeting in NYC (to be held virtually) in October 2020
 
-- A current project on "The Economics of Banking Regulation in the European Union" was recently featured (in German) in <a href="https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-systemrelevante-europaeische-banken-profitieren-weiterhin-von-impliziten-staatsgarantien/26168036.html" target="_blank">Handelsblatt</a> (think German "Wall Street Journal"). 
+- A current project on "The Economics of Banking Regulation in the European Union" was recently featured (in German) in <a href="https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-systemrelevante-europaeische-banken-profitieren-weiterhin-von-impliziten-staatsgarantien/26168036.html" target="_blank">Handelsblatt</a> (think "German Wall Street Journal"). 
 
 - I have just accepted to join the Scientific Committee of the <a href="https://www.bath.ac.uk/events/the-5th-entrepreneurial-finance-entfin-association-annual-meeting-2020/" target="_blank">Entrepreneurial Finance Association 2020 Meeting</a>. 
 
