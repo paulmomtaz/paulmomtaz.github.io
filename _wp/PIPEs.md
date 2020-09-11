@@ -2,7 +2,7 @@
 ---
 title: 'Private Investments in Public Equity: Discount for Lack of Marketability and Fair-Value Hypothesis'
 collection: wp
-date: 2020-09-11
+date: 2020-09-10
 external_url: 'https://www.paulmomtaz.com/wp/'
 excerpt: ''
 venue: ''
