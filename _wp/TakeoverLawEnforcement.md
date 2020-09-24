@@ -1,8 +1,8 @@
 ---
-title: 'The Economics of Law Enforcement: Quasi-Experimental Evidence from Corporate Takeover Law in Europe'
+title: 'The Economics of Law Enforcement: Quasi-Experimental Evidence from Corporate Takeover Law'
 collection: wp
 date: 2020-03-12
-external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2786409'
+external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3698764'
 excerpt: ''
 venue: ''
 paperurl: 'https://poseidon01.ssrn.com/delivery.php?ID=412117110095126112114064070103013011022024001018005001005068085094009023071074083025052011123123001038027090100119105089115076041023045020021087065073082079007089086031011094069124008126112008029064022124019124080081120096103118076086019014003125090088&EXT=pdf'
