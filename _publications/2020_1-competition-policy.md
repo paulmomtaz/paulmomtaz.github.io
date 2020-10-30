@@ -9,7 +9,7 @@ abstracturl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2862551'
 externalabstract: true
 journal: 'Journal of Corporate Finance, 62, 2020 (with <a href="https://www.jbs.cam.ac.uk/faculty-research/faculty-a-z/gishan-dissanaike/">G. Dissanaike</a> and <a href="https://www.bwl.uni-hamburg.de/finance/team/drobetz.html
 ">W. Drobetz</a>)'
-version: '*Nominated for best paper award (Financial Management Association)*'
+version: '<i>Nominated for best paper award (Financial Management Association)</i>'
 abstract: 'Merger control exists to help safeguard effective competition. However, findings from a natural experiment suggest that regulatory merger control reduces the profitability of corporate acquisitions. Uncertainty about merger control decisions reduces takeover threats from foreign and very large acquirers, therefore facilitating agency-motivated deals. Valuation effects are more pronounced in countries with stronger law enforcement and in more concentrated industries. Our results suggest that competition policy may impede the efficiency of the M&A market.'
 ---
 
