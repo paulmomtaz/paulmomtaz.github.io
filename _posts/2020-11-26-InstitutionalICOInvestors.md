@@ -5,7 +5,7 @@ is_blog: true
 permalink: /posts/2020/11/Do-Institutional-Investors-Prevent-The-Market-For-Tokenized-Assets-From-Failing/
 excerpt: 'Given the absence of an institutional framework for the ICO market that could effectively mitigate the moral hazard in signaling, we ask, in a recent Journal of Corporate Finance publication, whether the ICO market is able to efficiently cope with this problem on its own. Specifically, we study whether institutional investors, such as Venture Capital (VC) funds, can extract economic rents associated with market-wide services such as rigorous due diligence and certification of high-quality start-ups.'
 _source_blog: 'Duke Law School FinReg Blog'
-_source_blog_link: 'https://www.paulmomtaz.com/Do-Institutional-Investors-Prevent-The-Market-For-Tokenized-Assets-From-Failing/'
+_source_blog_link: 'https://sites.law.duke.edu/thefinregblog/2020/11/30/do-institutional-investors-prevent-the-market-for-tokenized-assets-from-failing-the-case-of-initial-coin-offerings-icos/'
 ---
 
 Initial Coin Offerings (ICOs) are a relatively novel mechanism for entrepreneurs to raise capital by selling digital tokens to a crowd of investors. Tokens are cryptographically protected digital assets implemented on a blockchain, which is a novel approach to recording and transmitting data across a network in an immutable manner.
