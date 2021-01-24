@@ -19,6 +19,8 @@ Thank you for visiting and welcome! I am a Finance PhD candidate at UCLA Anderso
 
 News
 ======
+- The Strategic Entrepreneurship Journal has invited us to resubmit a revised manuscript of <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3654561" target="_blank">The CEO Beauty Premium.
+
 - My paper <a href="https://linkinghub.elsevier.com/retrieve/pii/S0929119920302935" target="_blank">The Economics of Law Enforcement: Quasi-Experimental Evidence from Corporate Takeover Law in Europe</a> has been accepted for publication in the Journal of Corporate Finance.
 
 - My paper <a href="https://onlinelibrary.wiley.com/doi/10.1002/smj.3235" target="_blank">CEO Emotions and Firm Valuation in Initial Coin Offerings: An Artificial Intelligence Approach</a> has been accepted for publication in the Strategic Management Journal.
