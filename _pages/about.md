@@ -23,7 +23,7 @@ News
 
 - My paper <a href="https://linkinghub.elsevier.com/retrieve/pii/S0929119920302935" target="_blank">The Economics of Law Enforcement: Quasi-Experimental Evidence from Corporate Takeover Law</a> has been accepted for publication in the Journal of Corporate Finance.
 
-- The Strategic Management Journal has published my paper <a href="https://onlinelibrary.wiley.com/doi/10.1002/smj.3235" target="_blank">CEO Emotions and Firm Valuation in Initial Coin Offerings: An Artificial Intelligence Approach</a>.
+- The Strategic Management Journal has published my paper <a href="https://onlinelibrary.wiley.com/doi/10.1002/smj.3235" target="_blank">CEO Emotions and Firm Valuation in Initial Coin Offerings: An Artificial Emotional Intelligence Approach</a>.
 
 - My current working paper <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2786409" target="_blank">The Economics of Law Enforcement: Quasi-Experimental Evidence from Corporate Takeover Law</a> is currently nominated for the best paper award in Corporate Finance by the Financial Management Association (FMA), which will have its annual meeting in NYC (to be held virtually) in October 2020
 
