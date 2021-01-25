@@ -1,14 +1,14 @@
 ---
-title: '>>Never again<< (or not?) — The European bail-in regime has yet to solve the systemic problem of implicit government guarantees'
+title: '"Never again" (or not?) — The European bail-in regime has yet to solve the systemic problem of implicit government guarantees'
 date: 2021-01-25
 is_blog: true
 permalink: /posts/2012/08/never-again-or-not-the-european-bail-in-regime/
-excerpt: ''Never again' was the impassioned conviction of governments worldwide after being forced to bail out banking institutions and provide guarantees and capital to avert systemic collapse as a result of the global financial crisis of 2007/08. Since then, the responsible international regulatory bodies have developed a slew of new regulations, including enhanced supervision, capital surcharges, and resolution regimes specifically for banks that would jeopardize the financial system if they were to fail. But is this bail-in regime credible?'
+excerpt: '"Never again" was the impassioned conviction of governments worldwide after being forced to bail out banking institutions and provide guarantees and capital to avert systemic collapse as a result of the global financial crisis of 2007/08. Since then, the responsible international regulatory bodies have developed a slew of new regulations, including enhanced supervision, capital surcharges, and resolution regimes specifically for banks that would jeopardize the financial system if they were to fail. But is this bail-in regime credible?'
 _source_blog: 'Oxford Business Law Blog'
 _source_blog_link: 'https://www.law.ox.ac.uk/business-law-blog/blog/2021/01/never-again-or-not-european-bail-regime-has-yet-solve-systemic'
 ---
 
-'Never again' was the impassioned conviction of governments worldwide after being forced to bail out banking institutions and provide guarantees and capital to avert systemic collapse as a result of the global financial crisis of 2007/08. Since then, the responsible international regulatory bodies have developed a slew of new regulations, including enhanced supervision, capital surcharges, and resolution regimes specifically for banks that would jeopardize the financial system if they were to fail.
+"Never again" was the impassioned conviction of governments worldwide after being forced to bail out banking institutions and provide guarantees and capital to avert systemic collapse as a result of the global financial crisis of 2007/08. Since then, the responsible international regulatory bodies have developed a slew of new regulations, including enhanced supervision, capital surcharges, and resolution regimes specifically for banks that would jeopardize the financial system if they were to fail.
 
 In Europe, policymakers have agreed on a comprehensive bank recovery and resolution regime, which includes the Bank Recovery & Resolution Directive and the Single Resolution Mechanism Regulation, designed to make banks resolvable if they go bankrupt, but also to rule out bailout expectations and implicit government guarantees. The regime is designed to make banks’ debt bail-in-able and to make government bailouts of banks a rare exception.
 
