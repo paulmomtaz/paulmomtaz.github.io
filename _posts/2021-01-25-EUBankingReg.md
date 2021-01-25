@@ -1,5 +1,5 @@
 ---
-title: 'Never again' (or not?) — The European bail-in regime has yet to solve the systemic problem of implicit government guarantees'
+title: ''Never again' (or not?) — The European bail-in regime has yet to solve the systemic problem of implicit government guarantees'
 date: 2021-01-25
 is_blog: true
 permalink: /posts/2012/08/never-again-or-not-the-european-bail-in-regime/
