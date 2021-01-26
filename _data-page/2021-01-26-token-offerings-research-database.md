@@ -1,7 +1,7 @@
 ---
 title: "Token Offerings Research Database"
 collection: data-page
-permalink: /data/token-offerings-research-database
+permalink: /data/tord
 date: 2021-01-26
 excerpt: "The Token Offerings Research Database (TORD) consists of hand-collected ICOs, IEOs, and STOs. As of January 2021, the TORD is more comprehensive than any other publicly available token offerings database."
 ---
