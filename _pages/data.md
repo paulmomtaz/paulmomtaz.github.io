@@ -1,9 +1,12 @@
 ---
-permalink: /data/
+layout: archive
 title: "Data"
-excerpt: ""
+permalink: /data/
 author_profile: true
-
 ---
  
-Most of my research relies on hand-collected data. Because of GDPR-induced uncertainty, I do not make public any data at the moment.
+{% include base_path %}
+
+{% for post in site.data-page reversed %}
+  {% include archive-single.html %}
+{% endfor %}

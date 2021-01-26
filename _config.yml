@@ -191,6 +191,9 @@ collections:
   code:
     output: true
     permalink: /:collection/:path/
+  data-page:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -269,6 +272,15 @@ defaults:
   - scope:
       path: ''
       type: code
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _data
+  - scope:
+      path: ''
+      type: data-page
     values:
       layout: single
       author_profile: true
