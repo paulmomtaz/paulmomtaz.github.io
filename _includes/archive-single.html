@@ -58,11 +58,12 @@
 		{% endif %}
 		
 		{% if post.version != "" %}
-			<p>{{ post.version }}</p> 
+			<p class="archive__item-version">{{ post.version }}</p> 
 		{% endif %}
 
 		{% if post.abstract %}
-			<p style="font-size:13px;"><strong>Abstract:</strong> {{ post.abstract }}
+			<p class="archive__item-abstract">
+					<strong>Abstract:</strong> {{ post.abstract }}
 					{% if post.externalabstract %}
 							<a href="{{ post.abstracturl }}" target="_blank">[working paper version here]</a>  
 					{% endif %}

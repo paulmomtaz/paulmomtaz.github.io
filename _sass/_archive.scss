@@ -49,9 +49,22 @@
 }
 
 .archive__item-journal {
+  margin: 2px 0;
+}
+
+.archive__item-journal {
   a {
     color: #494e52;
   }
+}
+
+.archive__item-version {
+  margin: 2px 0;
+}
+
+.archive__item-abstract {
+  font-size: 13px;
+  margin-top: 3px;
 }
 
 /* remove border*/
