@@ -12,6 +12,9 @@ main:
   - title: 'Blog Posts'
     url: /blog-posts/
 
+  #- title: 'Media'
+    #url: /media/
+
   #- title: 'Talks'
     #url: /talks/
 

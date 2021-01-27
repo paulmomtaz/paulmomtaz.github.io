@@ -1,0 +1,24 @@
+---
+title: 'How Merger Control Impedes an Efficient Market for Corporate Control'
+date: 2020-11-26
+is_blog: true
+permalink: /posts/2020/11/How-Merger-Control-Impedes-an-Efficient-Market-for-Corporate-Control/
+excerpt: 'Recent deliberations among antitrust enforcers about the pros and cons of breaking up BigTech have put the effectiveness of competition policy center stage. In our recent article in the Journal of Corporate Finance, we shed novel light on some unintended consequences of competition policy. Specifically, the article shows that, while attempting to prevent anti-competitive business combinations, an unintended and harmful byproduct of European merger control is that it impedes an efficient market for corporate control.'
+_source_blog: 'Oxford Business Law Blog'
+_source_blog_link: 'https://www.law.ox.ac.uk/business-law-blog/blog/2020/11/how-merger-control-impedes-efficient-market-corporate-control'
+---
+
+Recent deliberations among antitrust enforcers about the pros and cons of breaking up BigTech have put the effectiveness of competition policy center stage. In our recent article in the Journal of Corporate Finance, we shed novel light on some unintended consequences of competition policy. Specifically, the article shows that, while attempting to prevent anti-competitive business combinations, an unintended and harmful byproduct of European merger control is that it impedes an efficient market for corporate control.
+
+Competition policy, and, in particular, merger control, exists to safeguard effective competition. This is an important policy device to protect consumers from excessive rent-seeking by too powerful corporations. Enforcement agencies use a battery of analyses to determine whether a proposed business combination should be deemed pro- or anti-competitive.
+
+An event study of the stock price reaction to the announcement of the proposed business combination often provides a quantitative basis for antitrust law enforcers. If the stock price of the merging companies goes up and the stock price of their industry peers goes down, enforcers typically infer that the proposed deal is pro-competitive because the merging parties benefit from efficiency gains (which explains the stock price increase of these firms) that increase competition (which explains the stock price decrease of industry peers). If the stock price of the merging companies goes up and the stock price of their industry peers also goes up, enforcers typically infer that the proposed deal is anti-competitive because they attributed the value gains to all affected companies to increased market power rents.
+
+This procedure rests on the assumption that the stock price reaction of merging firms and their industry peers is an unconfounded measure of the change in the composition of corporate efficiency and market power. In our article we tested this assumption and document some surprising results.
+
+The article documents that merger control impedes the profitability of corporate acquisitions, and therefore impedes the efficient functioning of the European market for corporate control. The reason for this is legal and commercial uncertainty about merger control. Uncertainty about merger control decreases the takeover attempts by very large and foreign acquirers, which reduces the takeover threat for European companies. The reduced takeover threat, in turn, facilitates agency-motivated behaviour. Ultimately, this causal chain leads to a reduction in firm value. Consistent with our interpretation, we find that the valuation effects are more pronounced in relatively concentrated industries and countries with stricter law enforcement. 
+
+Our findings are backed by quasi-experimental evidence. We used the 2004 Reform of European merger control, which reduced uncertainty, as a natural experiment to implement a difference-in-differences research design. As an indication of the economic magnitude of the mechanism unveiled by our research, we note that the 2004 Reform caused on average a USD 750 million value gain per proposed business combination that was scrutinized by antitrust law enforcers post-2004 (this figure has to be benchmarked to the size of the average acquirer in our sample, which is USD 24.3 billion.)
+
+Our paper has at least two important implications for policy-making. First, when weighing the pros and cons of intervening in the market for corporate control, antitrust law enforcers should more carefully consider not only the consequences that their intervention would have to the merging firms and their peers but the market for corporate control overall. Second, a reduction of uncertainty about merger control (eg, by publishing more transparent merger control guidelines and prima-facie thresholds at which deals are likely considered anti-competitive) would likely increase the efficiency in the European market for corporate control.
+

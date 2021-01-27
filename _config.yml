@@ -194,6 +194,9 @@ collections:
   data-page:
     output: true
     permalink: /:collection/:path/
+  media:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -281,6 +284,15 @@ defaults:
   - scope:
       path: ''
       type: data-page
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _media
+  - scope:
+      path: ''
+      type: media
     values:
       layout: single
       author_profile: true
