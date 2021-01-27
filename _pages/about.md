@@ -37,4 +37,4 @@ News
 
 Miscellaneous
 ======
-- <a href="https://linkinghub.elsevier.com/retrieve/pii/S0929119920302935" target="_blank">High-resolution headshot</a>
+- <a href="https://www.paulmomtaz.com/images/avatar1.png" target="_blank">High-resolution headshot</a>
