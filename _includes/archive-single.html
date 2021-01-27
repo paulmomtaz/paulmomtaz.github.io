@@ -69,9 +69,12 @@
       </p> 
     {% endif %}
 
-    {% if post.image %}
-      <img src="{{ post.image }}" width="300">
+    {% if post.images %}
+      {% for image in post.images %}
+        <a href="{{ base_path }}/files/{{ image }}">
+          <img src="{{ base_path }}/files/{{ image }}" width="300">
+        </a>&nbsp;
+      {% endfor %}
     {% endif %}
-
   </article>
 </div>

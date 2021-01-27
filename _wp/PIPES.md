@@ -5,9 +5,7 @@ date: 2021-01-27
 external_url: 'https://www.paulmomtaz.com/wp/'
 excerpt: ''
 venue: ''
-image: 'https://www.paulmomtaz.com/files/StylizedFact.png'
-image: 'https://www.paulmomtaz.com/files/StylizedFact.png'
-image: 'https://www.paulmomtaz.com/files/StylizedFact.png'
+images: [ "StylizedFact.png", "StylizedFact.png" ]
 paperurl: 'https://www.paulmomtaz.com/wp/'
 journal: 'Work in progress (with <a href="https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/bernardo">A. Bernardo</a>, <a href="https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/welch">I. Welch</a>)'
 version: 'Working paper will be posted soon.'
