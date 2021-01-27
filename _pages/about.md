@@ -34,3 +34,7 @@ News
 - I have just accepted to become a permanent member of the Scientifc Committee of the <a href="https://www.cryptovalleyconference.com/economics-finance-call-for-papers" target="_blank">Crypto Valley Conference</a> in Switzerland, the largest conference on crypto economics.
 
 - I have accepted an invite to edit a special issue on Token Offerings in <a href="https://jai.pm-research.com/content/21/4" target="_blank">The Journal of Alternative Investments</a>.
+
+Miscellaneous
+======
+- <a href="https://linkinghub.elsevier.com/retrieve/pii/S0929119920302935" target="_blank">High-resolution headshot</a>
