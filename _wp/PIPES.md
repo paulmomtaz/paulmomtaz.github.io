@@ -5,7 +5,8 @@ date: 2021-01-27
 external_url: 'https://www.paulmomtaz.com/wp/'
 excerpt: ''
 venue: ''
-images: ["PIPEs_Taxonomy.pdf","F2V1.pdf","PTA.pdf"]
+images: []
+pdfs: ["PIPEs_Taxonomy.pdf","F2V1.pdf","PTA.pdf"]
 paperurl: 'https://www.paulmomtaz.com/wp/'
 journal: 'Work in progress (with <a href="https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/bernardo">A. Bernardo</a>, <a href="https://www.anderson.ucla.edu/faculty-and-research/finance/faculty/welch">I. Welch</a>)'
 version: 'Working paper will be posted soon.'

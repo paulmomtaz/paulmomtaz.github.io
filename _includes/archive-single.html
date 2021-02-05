@@ -63,16 +63,28 @@
 
 		{% if post.abstract %}
 			<p class="archive__item-abstract">
-					<strong>Abstract:</strong> {{ post.abstract }}
-					{% if post.externalabstract %}
-							<a href="{{ post.abstracturl }}" target="_blank">[working paper version here]</a>  
-					{% endif %}
+				<strong>Abstract:</strong> {{ post.abstract }}
+				{% if post.externalabstract %}
+					<a href="{{ post.abstracturl }}" target="_blank">[working paper version here]</a>  
+				{% endif %}
 			</p> 
 		{% endif %}
 
+		{% if post.pdfs %}
+			{% for pdf in post.pdfs %}
+				<a data-fancybox data-type="iframe" data-src="{{ base_path }}/files/{{ pdf }}" href="javascript:;">
+					<img data-pdf-thumbnail-file="{{ base_path }}/files/{{ pdf }}" width="200" height="200" data-pdf-thumbnail-width="190" data-pdf-thumbnail-height="120" style="width: 190px !important;height: 120px !important;object-fit: cover;">
+				</a>
+			{% endfor %}
+		{% endif %}
+
+		<br><br>
+
 		{% if post.images %}
 			{% for image in post.images %}
-			<a href="{{ base_path }}/files/{{ image }}"><img src="{{ base_path }}/files/{{ image }}" width="300" /></a>
+			<a href="{{ base_path }}/files/{{ image }}" data-fancybox="gallery">
+				<img src="{{ base_path }}/files/{{ image }}" style="width: 230px !important;height: 200px !important;object-fit: cover;" />
+			</a>
 			{% endfor %}
 		{% endif %}
 	</article>
