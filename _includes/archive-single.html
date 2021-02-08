@@ -74,9 +74,8 @@
 			{% for pdf in post.pdfs %}
 				<a data-fancybox data-type="iframe" data-src="{{ base_path }}/files/{{ pdf }}" href="javascript:;"><img data-pdf-thumbnail-file="{{ base_path }}/files/{{ pdf }}" width="200" height="200" data-pdf-thumbnail-width="190" data-pdf-thumbnail-height="120" style="width: 190px !important;height: 120px !important;object-fit: cover;"></a>
 			{% endfor %}
-		{% endif %}
-
 		<br><br>
+		{% endif %}
 
 		{% if post.images %}
 			{% for image in post.images %}
