@@ -1,11 +1,11 @@
 ---
 title: 'Econometric Models of Duration Data in Entrepreneurship with an Application to Start-Ups Time-To-Funding by Venture Capitalists (VCs)'
 collection: other-publications
-external_url: 'https://www.sciencedirect.com/science/article/abs/pii/S1544612321000891'
+external_url: 'https://www.tandfonline.com/doi/abs/10.1080/02664763.2021.1896686'
 excerpt: ''
 venue: ''
 paperurl: ''
-abstracturl: 'https://www.sciencedirect.com/science/article/abs/pii/S1544612321000891'
+abstracturl: 'https://www.tandfonline.com/doi/abs/10.1080/02664763.2021.1896686'
 externalabstract: true
 journal: 'Journal of Applied Statistics'
 version: ''
