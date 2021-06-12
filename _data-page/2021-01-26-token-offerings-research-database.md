@@ -16,8 +16,4 @@ Version control:
 - V1: all token offerings until 12/2020
 - V2 (live since June 12, 2021): Update includes links to Github and LinkedIn websites, the average project rating, the team size, and a Coinmarketcap identifier (enabling you to link more than 1,000 offerings to post-offering token price performance data)
 
-[STOs-V1.xlsx](/files/STOs-V1.xlsx)
-<br>
-[IEOs-V1.xlsx](/files/IEOs-V1.xlsx)
-<br>
-[ICOs-V1.xlsx](/files/ICOs-V1.xlsx)
+[TORD_V2.csv](/files/tord_v2.csv)
