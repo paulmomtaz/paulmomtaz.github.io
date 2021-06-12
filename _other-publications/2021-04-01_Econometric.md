@@ -1,5 +1,5 @@
 ---
-title: 'Econometric Models of Duration Data in Entrepreneurship with an Application to Start-Ups` Time-To-Funding by Venture Capitalists (VCs)'
+title: 'Econometric Models of Duration Data in Entrepreneurship with an Application to Start-Ups Time-To-Funding by Venture Capitalists (VCs)'
 collection: other-publications
 external_url: 'https://www.tandfonline.com/doi/abs/10.1080/02664763.2021.1896686'
 excerpt: ''
