@@ -13,3 +13,5 @@ abstract: 'Because time is a key determinant of entrepreneurial decision making,
 ---
 
 Abstract: Because time is a key determinant of entrepreneurial decision making, time-to-event models are ubiquitous in entrepreneurship. Widespread econometric misconception, however, may cause complicated biases in existing studies. The reason is spurious duration dependency, a complicated form of endogeneity caused by unobserved heterogeneity, which is particularly pronounced in entrepreneurship data. This article discusses the endogeneity problem and methods to ‘debias’ time-to-event models in entrepreneurship. Simulations and empirical evidence indicate that only the frailty approach yields consistently unbiased parameter estimates. An application to start-up firms' time-to-funding shows that other methods lead to dramatic biases. Therefore, this article advocates a paradigm shift in the modeling of time variables in entrepreneurship.
+
+
