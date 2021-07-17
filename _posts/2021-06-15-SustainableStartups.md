@@ -8,7 +8,7 @@ _source_blog: 'Duke Law School'
 _source_blog_link: 'https://sites.law.duke.edu/thefinregblog/2021/06/30/does-it-pay-to-invest-in-sustainable-startups/'
 ---
 
-Sustainable investing (or impact investing) is arguably the hottest topic in global finance. Morningstar reports that ESG-oriented mutual funds’ net capital inflows quadrupled in 2019 to $20 billion, and signatories to the Principles for Responsible Investments (PRI) had $86 trillion assets under management (AuM) in the same year.
+Sustainable investing (or impact investing) is arguably the hottest topic in global finance. Morningstar reports that ESG-oriented mutual funds’ net capital inflows quadrupled in 2019 to USD 20 billion, and signatories to the Principles for Responsible Investments (PRI) had USD 86 trillion assets under management (AuM) in the same year.
 
 However, the economics of sustainable investing are contentious among practitioners and academics. While many industry reports point to the high net capital inflows and favorable valuations of ESG assets, financial economists warn that the sustainable investing hype could be driven by an unsustainable demand effect. The current focus on ESG could result in these assets underperforming once the high net capital inflows begin to subside (and other unsustainable effects, such as “greenwashing,” start to wear out).
 
