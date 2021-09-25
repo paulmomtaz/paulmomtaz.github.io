@@ -6,7 +6,7 @@ external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3844259'
 excerpt: ''
 venue: ''
 images: []
-pdfs: ["PIPEs_Taxonomy.pdf","F2V1.pdf","PTA.pdf"]
+pdfs: ["e.png","s.png","g.png"]
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3844259'
 journal: 'Working paper (with <a href="https://sasanm.de/">S. Mansouri</a>)'
 version: ''
