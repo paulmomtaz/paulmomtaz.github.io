@@ -17,7 +17,7 @@ Thank you for visiting and welcome! I am a Finance PhD candidate at UCLA Anderso
 
 <!--I received my education in mathematics and economics in Hamburg, Paris and Cambridge. My academic work has been recognized with a number of prizes, including the Sorbonne-Prize of the University of Paris, a number of awards from the University of Cambridge such as the Cambridge University scholarship, and a full scholarship of the German National Merit Foundation. My recent publication on how <a href="https://www.sciencedirect.com/science/article/pii/S0929119919301142?dgcid=author" target="_blank">European competition policy impedes an efficient market for corporate control</a> was nominated for a best paper award by the Financial Management Association.-->
 
-News
+<!--News
 ======
 - The Strategic Entrepreneurship Journal has invited us to resubmit a revised manuscript of <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3654561" target="_blank">The CEO Beauty Premium.
 
@@ -37,4 +37,4 @@ News
 
 Miscellaneous
 ======
-- <a href="https://www.paulmomtaz.com/images/avatar1.png" target="_blank">High-resolution headshot</a>
+- <a href="https://www.paulmomtaz.com/images/avatar1.png" target="_blank">High-resolution headshot</a>-->
