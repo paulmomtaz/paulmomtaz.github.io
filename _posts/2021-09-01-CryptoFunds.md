@@ -20,7 +20,6 @@ To fill this void, we compiled a unique dataset from various sources that track 
 
 Two important empirical patterns emerge from the analyses:
 
-
 1.	Crypto funds underperform the market. 
 
 The most striking finding is that crypto funds underperform the market, no matter the benchmark (equally-, value-, and liquidity-weighted crypto market benchmarks). For example, relative to the equally-weighted market benchmark, crypto funds underperform by 21 percent per year. This means that investors are on average better off if they invest in either Bitcoin, Ether, or both. 
@@ -28,7 +27,6 @@ The most striking finding is that crypto funds underperform the market, no matte
 The result is striking because crypto funds underperform the market even before fees. Considering that most of the funds charge investors substantial fees (most funds charge a performance fee of 20 percent on the profits and a management fee of 2 percent on the assets under management), the underperformance is even more pronounced. 
 
 It is true, however, that crypto funds manage market risk for their investors. In periods in which the overall crypto market experiences significant downturns, crypto funds temporarily outperform the market. 
- 
  
 2.	Crypto fund-backed tokenized firms benefit from the investment.
 
