@@ -36,7 +36,7 @@ First, if crypto funds back token offerings, the post-offering performance of th
 
 Second, cryptocurrencies in which crypto funds invest in the after-market experience a sharp token price increase over the 10 days after the investment. In fact, the token price starts to increase around five days prior to the crypto fund investment, suggesting that there is some informed trading occurring. 
 
-Despite crypto funds' average underperformance, they may add value for investors. For example, crypto funds return gains to investors with in-kind redistributions, meaning that investors can time their personal tax liability. Gains from crypto funds become taxable only at recognition events; that is, if the token returns are exchanged for fiat currency. This individual timing may thus reduce investors' aggregate tax liability over time.
+Despite crypto funds’ average underperformance, they may add value for investors. For example, crypto funds return gains to investors with in-kind redistributions, meaning that investors can time their personal tax liability. Gains from crypto funds become taxable only at recognition events; that is, if the token returns are exchanged for fiat currency. This individual timing may thus reduce investors’ aggregate tax liability over time.
 
 Crypto funds might have macroeconomic benefits as well. They bring sophisticated trading strategies to otherwise illiquid entrepreneurial finance markets, which increases efficiency in the market for startup projects, thereby potentially improving the allocation of growth capital to the best projects.
 
