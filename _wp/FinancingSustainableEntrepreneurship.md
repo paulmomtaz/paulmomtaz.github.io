@@ -5,7 +5,7 @@ date: 2021-07-30
 external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3844259'
 excerpt: ''
 venue: ''
-images: ["images/e.png", "images/s.png", "images/g.png"]
+images: ["e.png", "s.png", "g.png"]
 pdfs: []
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3844259'
 journal: 'Working paper (with <a href="https://sasanm.de/">S. Mansouri</a>)'
