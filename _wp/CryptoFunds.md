@@ -5,7 +5,7 @@ date: 2021-07-15
 external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3865240'
 excerpt: ''
 venue: ''
-images: ["e.png", "s.png", "g.png"]
+images: ["bhar_across_indices.png", "bhar24_inv_across_indices2.png", "discrete_fund_returns.png"]
 pdfs: []
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3865240'
 journal: 'Work in progress; draft will be posted soon'
