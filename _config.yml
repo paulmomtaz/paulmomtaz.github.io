@@ -194,6 +194,9 @@ collections:
   data-page:
     output: true
     permalink: /:collection/:path/
+  news:
+    output: true
+    permalink: /:collection/:path/
   media:
     output: true
     permalink: /:collection/:path/
@@ -284,6 +287,15 @@ defaults:
   - scope:
       path: ''
       type: data-page
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _news
+  - scope:
+      path: ''
+      type: news
     values:
       layout: single
       author_profile: true
