@@ -14,6 +14,7 @@ If you use the data, please cite as follows: Momtaz, P.P. (2021) Token Offerings
 
 Version control:
 - V1: all token offerings until 12/2020
-- V2 (live since June 12, 2021): Update includes links to Github and LinkedIn websites, the average project rating, the team size, and a Coinmarketcap identifier (enabling you to link more than 1,000 offerings to post-offering token price performance data)
+- V2: Update includes links to Github and LinkedIn websites, the average project rating, the team size, and a Coinmarketcap identifier (enabling you to link more than 1,000 offerings to post-offering token price performance data)
+- V3 (live since Oct 2, 2021): Update includes token standard (ERC20).
 
-[TORD_V2.csv](/files/tord_v2.csv)
+[TORD_V3.csv](/files/tord_v3.csv)
