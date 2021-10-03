@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.news reversed %}
-  {% include archive-single.html %}
+  {% include archive-news.html %}
 {% endfor %}
 
 <!-- remove the loop above and link below, it was only for demo -->
