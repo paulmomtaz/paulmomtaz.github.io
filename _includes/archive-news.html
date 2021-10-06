@@ -34,6 +34,6 @@
 			<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
 		{% endif %}
 
-		<p class="page__date"><strong><i class="fa fa-book" aria-hidden="true"></i> Published <time datetime="{{ post.date | default: '1900-01-01' | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time> at: </strong>{{ post._source_blog }}</p>
+		<p class="page__date"><strong><i class="fa fa-book" aria-hidden="true"></i> Published at: </strong><time datetime="{{ post.date | default: '1900-01-01' | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time> in <strong>{{ post._source_blog }}</strong></p>
 	</article>
 </div>
