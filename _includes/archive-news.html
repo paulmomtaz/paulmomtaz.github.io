@@ -35,9 +35,9 @@
 		{% endif %}
 
 		<p class="page__date">
-			<i class="fa fa-book" aria-hidden="true"></i>
+			<i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
 			<time datetime="{{ post.date | default: '1900-01-01' | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time>
 		</p>
-		<p><strong>{{ post._source_blog }}</strong></p>
+		<p><strong><i class="fa fa-book" aria-hidden="true"></i> {{ post._source_blog }}</strong></p>
 	</article>
 </div>
