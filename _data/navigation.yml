@@ -21,8 +21,8 @@ main:
   #- title: 'Teaching'
     #url: /teaching/
 
-  - title: 'News/Op-Eds'
-    url: /news/
+  #- title: 'News/Op-Eds'
+    #url: /news/
 
   - title: 'Data'
     url: /data/
