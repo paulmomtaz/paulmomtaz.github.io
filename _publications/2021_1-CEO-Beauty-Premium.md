@@ -1,7 +1,7 @@
 ---
 title: 'The CEO Beauty Premium'
 collection: publications
-external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3654561'
+external_url: 'https://doi.org/10.1002/sej.1417'
 excerpt: ''
 venue: ''
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3654561'
