@@ -3,7 +3,7 @@ title: 'Financing Sustainable Entrepreneurship'
 date: 2022-01-13
 is_blog: true
 permalink: /posts/2022/01/financing-sustainable-entrepreneurship/
-excerpt: 'At least since BlackRock boss Larry Fink’s annual letter to CEOs in 2019, investing in ESG assets has become a major topic among both retail and institutional investors. In a new article, we address the question of how economically attractive investments in ESG-oriented startups are.'
+excerpt: 'The key take-away for policymakers is simple: ESG-oriented entrepreneurs will help make our society more sustainable for their own sake. If one wants to accelerate this evolution, the best way is through policies that encourage investments in startups.'
 _source_blog: 'Columbia Law School'
 _source_blog_link: 'https://clsbluesky.law.columbia.edu/2022/01/13/financing-sustainable-entrepreneurship/'
 ---
