@@ -6,7 +6,7 @@ external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4020201'
 excerpt: ''
 venue: ''
 images: ''
-pdfs: []
+pdfs: ["MarketEvo.V2.pdf", "InstitutionalEvo.V2.pdf"]
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4020201'
 journal: 'Work in progress; draft will be posted end of February'
 version: ''
