@@ -5,7 +5,7 @@ date: 2021-07-30
 external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3997723'
 excerpt: ''
 venue: ''
-images: ["e.png", "s.png", "g.png"]
+images: ["p2-5.png", "e.png", "nlptag.png"]
 pdfs: []
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3997723'
 journal: 'R&R at Journal of Business Venturing (with <a href="https://sasanm.de/">S. Mansouri</a>)'
