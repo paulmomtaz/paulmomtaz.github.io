@@ -10,7 +10,7 @@ locale: 'en-US'
 title: 'Paul P. Momtaz'
 title_separator: '-'
 name: &name 'Paul Momtaz'
-description: &description 'Paul P. Momtaz, UCLA Anderson School of Management and UCL Computer Science CBT'
+description: &description 'Paul P. Momtaz, Frankfurt | UCLA | Wharton |UCL CBT'
 url: 'https://www.paulmomtaz.com' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: '' # the subpath of your site, e.g. "/blog"
 repository:
