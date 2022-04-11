@@ -11,7 +11,11 @@ redirect_from:
 
 About
 ======
-Thank you for visiting and welcome! I am a Finance PhD candidate at UCLA Anderson; before that, I was a PhD student in the Innovation, Strategy, and Organisation Group at Cambridge University. My research interests include corporate finance, strategy, innovation, and entrepreneurship. Most of my work is in the intersection of at least two of these fields.
+Thank you for visiting and welcome! I currently work at the House of Finance at Goethe University Frankfurt where I hold the Endowed Chair of Private Equity. I am also currently pursuing a Ph.D. at UCLA and have affiliations with the Wharton School as the Metzler Visiting Professor in the Management Department and as a Research Associate with the Centre of Blockchain Technologies at University College London's Computer Science Department. 
+
+For my most recent research, see my <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2433926" target="_blank">SSRN</a> profile.
+
+<!--I am a Finance PhD candidate at UCLA Anderson; before that, I was a PhD student in the Innovation, Strategy, and Organisation Group at Cambridge University. My research interests include corporate finance, strategy, innovation, and entrepreneurship. Most of my work is in the intersection of at least two of these fields.-->
 
 <!--Having practical experience from stints in management consulting and banking, I enjoy advising and mentoring start-ups. Before UCLA, I was the head of the global resolution planning office at Commerzbank AG.-->
 
