@@ -11,7 +11,7 @@ redirect_from:
 
 About
 ======
-Thank you for visiting and welcome! I currently work at the House of Finance at Goethe University Frankfurt where I hold the Endowed Chair of Private Equity. I am also currently pursuing a Ph.D. at UCLA and have affiliations with the Wharton School as the Metzler Visiting Professor in the Management Department and as a Research Associate with the Centre of Blockchain Technologies at University College London's Computer Science Department. 
+Thank you for visiting, and welcome! I currently work at the <a href="https://www.wiwi.uni-frankfurt.de/en/research/clusters-and-centers/house-of-finance.html" target="_blank">House of Finance</a> in Frankfurt, my hometown in Germany, where I have returned at the onset of the pandemic and am holding the Endowed Chair of Private Equity since then. I am also a Ph.D. candidate at UCLA and have affiliations with the Wharton School as the Metzler Visiting Professor in the Management Department and as a Research Associate with the Centre of Blockchain Technologies at University College London's Computer Science Department. 
 
 For my most recent research, see my <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2433926" target="_blank">SSRN</a> profile.
 
