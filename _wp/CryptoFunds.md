@@ -1,7 +1,7 @@
 ---
 title: 'Decentralized Finance, Crypto Funds, and Value Creation in Tokenized Firms'
 collection: wp
-date: 2021-07-15
+date: 2022-04-15
 external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3865240'
 excerpt: ''
 venue: ''
