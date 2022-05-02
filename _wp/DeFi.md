@@ -1,14 +1,14 @@
 ---
-title: 'Decentralized Finance (DeFi) Markets for Startups: Search Frictions, Intermediation, and Efficiency'
+title: 'Is Decentralized Finance (DeFi) Efficient?'
 collection: wp
 date: 2022-02-01
-external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4020201'
+external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095397'
 excerpt: ''
 venue: ''
 images: ''
 pdfs: []
-paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4020201'
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095397'
 journal: ''
 version: ''
-abstract: 'This paper examines the role of intermediation for the efficiency of Decentralized Finance (DeFi) markets for startups, with an application to Initial Coin Offerings (ICOs). ICO intermediation is a contentious issue. Existing research fails to explain the trade-off between intermediated and non-intermediated ICOs. To fill this gap, we advance a search-related theory of DeFi. The intensity of search, i.e. the process of identifying valuable projects, is increasing in market granularity. Blockchain technology increases market granularity through lower entry barriers. Lower-end entrants, however, increase aggregate search intensity but lack search skills. The resulting search-related inefficiency creates a niche for DeFi intermediaries. Consistent with this theory, our findings suggest that DeFi intermediaries reduce search frictions and extract economic rents for their services. Rent sharing between entrepreneurs and individual investors in non-intermediated ICOs is more equitable than in intermediated ICOs. In intermediated ICOs, DeFi intermediaries pocket most of the transaction surplus, although entrepreneurs also benefit from higher valuations. Overall, without intermediation, search frictions in DeFi markets for startups would significantly reduce the welfare for society.'
+abstract: 'How efficient is Decentralized Finance (DeFi)? To answer this question, we study the efficiency and the role of intermediation in a large DeFi segment, namely, the market for Initial Coin Offerings (ICOs). In particular, we advance a search-related theory of DeFi, in which search frictions partly offset the efficiency gains from reduced transaction costs thanks to blockchain technology and smart contracts. The intensity of search, i.e. the process of identifying valuable projects, is increasing in market granularity. Blockchain technology increases market granularity through lower entry barriers. Lower-end entrants, however, increase aggregate search intensity but lack search skills. The resulting search-related inefficiency creates a niche for DeFi intermediaries. Consistent with this theory, our findings suggest that DeFi intermediaries reduce search frictions and extract economic rents for their services. Relative to the Walrasian equilibrium, DeFi is relatively inefficient, and search frictions reduce the welfare for society almost by half. The evidence indicates that perfectly decentralized finance markets would not be optimal for society. '
 ---
