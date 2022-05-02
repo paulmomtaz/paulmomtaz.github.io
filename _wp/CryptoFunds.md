@@ -5,8 +5,6 @@ date: 2021-07-15
 external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3865240'
 excerpt: ''
 venue: ''
-images: []
-pdfs: []
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3865240'
 journal: 'Work in progress; draft will be posted end of March 2022'
 version: ''
