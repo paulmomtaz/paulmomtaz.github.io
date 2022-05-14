@@ -1,7 +1,7 @@
 ---
 title: 'Is Decentralized Finance (DeFi) Efficient?'
 collection: wp
-date: 2022-02-01
+date: 2022-04-16
 external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095397'
 excerpt: ''
 venue: ''
