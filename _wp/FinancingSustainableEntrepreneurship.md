@@ -1,7 +1,7 @@
 ---
 title: 'Financing Sustainable Entrepreneurship: ESG Measurement, Valuation, and Performance'
 collection: wp
-date: 2021-07-30
+date: 2022-04-17
 external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3997723'
 excerpt: ''
 venue: ''
