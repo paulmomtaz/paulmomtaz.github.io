@@ -1,7 +1,7 @@
 ---
 title: 'Decentralized Finance (DeFi) Markets for Startups: Search Frictions, Intermediation, and Efficiency'
 collection: wp
-date: 2022-04-16
+date: 2022-09-16
 external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095397'
 excerpt: ''
 venue: ''
