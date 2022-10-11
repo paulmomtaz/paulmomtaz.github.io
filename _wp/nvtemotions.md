@@ -1,7 +1,7 @@
 ---
-title: 'Emotions in New Venture Teams: Affects as Signals, Emotional Diversity, and Valuation Effects in Crowdfunded Projects'
+title: 'Emotions in New Venture Teams: Affects as Signals, Emotional Diversity, and Valuation Effects in Initial Coin Offerings (ICOs)'
 collection: wp
-date: 2022-04-12
+date: 2022-09-12
 external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4119886'
 excerpt: ''
 venue: ''
