@@ -16,5 +16,9 @@ Version control:
 - V1: all token offerings until 12/2020
 - V2: Update includes links to Github and LinkedIn websites, the average project rating, the team size, and a Coinmarketcap identifier (enabling you to link more than 1,000 offerings to post-offering token price performance data)
 - V3 (live since Oct 2, 2021): Update includes token standard (ERC20).
+- V4: Currently in progress. Will update the TORD till 2022 and add new types of token offerings, as well as new variables. Expected launch date: Q3/2023.
 
 [TORD_V3.csv](/files/tord_v3.csv)
+[TORD_V3_VariableDefinitions.xlsx](/files/TORD_v3_variabledefinitions.xlsx)
+
+Acknowledgements: Many colleagues have helped to contribute to the TORD, either by rectifying data entries or by providing additional data. I am particularly grateful to Alessandro Bitetto, Niclas Dombrowski, and Daniel Liebau.
