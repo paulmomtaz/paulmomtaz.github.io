@@ -19,6 +19,7 @@ Version control:
 - V4: Currently in progress. Will update the TORD till 2022 and add new types of token offerings, as well as new variables. Expected launch date: Q3/2023.
 
 [TORD_V3.csv](/files/tord_v3.csv)
+
 [TORD_V3_VariableDefinitions.xlsx](/files/TORD_v3_variabledefinitions.xlsx)
 
 Acknowledgements: Many colleagues have helped to contribute to the TORD, either by rectifying data entries or by providing additional data. I am particularly grateful to Alessandro Bitetto, Niclas Dombrowski, and Daniel Liebau.
