@@ -8,7 +8,7 @@ paperurl: 'https://poseidon01.ssrn.com/delivery.php?ID=0610810240131140260660211
 abstracturl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3343912'
 externalabstract: true
 journal: '<b>Journal of Business Venturing, 2021</b>'
-version: ''
+version: '→ Coverage: <i><a href="https://www.economist.com/business/2023/03/02/the-uses-and-abuses-of-hype">The Economist</a><br/></i>'
 abstract: 'This paper provides the first evidence of a moral hazard in signaling in an entrepreneurial finance context, by examining token offerings or Initial Coin Offerings (ICOs). Entrepreneurs ability to signal quality is crucial to succeeding in the competition for growth capital. However, the absence of institutions that verify endogenous signals may induce a moral hazard in signaling. Consistent with this hypothesis, artificial linguistic intelligence indicates that token issuers systematically exaggerate information disclosed in whitepapers. Exaggerating entrepreneurs raise more funds in less time, suggesting that investors do not see through this practice initially. Eventually, the crowd learns about the exaggeration bias through trading with other investors. The resulting investor disappointment causes the cryptocurrency to depreciate and the probability of platform failure to increase.'
 ---
 
