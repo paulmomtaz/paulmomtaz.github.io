@@ -1,7 +1,7 @@
 ---
 title: 'Academic freedom and innovation'
 collection: wp
-date: 2022-05-30
+date: 2023-03-12
 external_url: ''
 excerpt: ''
 venue: ''
