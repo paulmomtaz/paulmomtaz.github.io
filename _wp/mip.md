@@ -1,7 +1,7 @@
 ---
 title: 'The Labor Economics of Inventing'
 collection: wp
-date: 2023-03-04
+date: 2023-03-10
 external_url: ''
 excerpt: ''
 venue: ''
