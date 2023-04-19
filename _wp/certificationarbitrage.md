@@ -1,7 +1,7 @@
 ---
 title: 'The Financial and Non-Financial Performance of Token-Based Crowdfunding: Certification Arbitrage, Investor Choice, and the Optimal Timing of ICOs'
 collection: wp
-date: 2023-03-04
+date: 2023-04-18
 external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4422540'
 excerpt: ''
 venue: ''
