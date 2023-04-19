@@ -1,7 +1,7 @@
 ---
 title: 'The Hurdle-Rate Effect on Patents: Equity Risk Premium and Corporate Innovation by Public Firms in the U.S., 1977-2018'
 collection: wp
-date: 2023-03-05
+date: 2023-04-19
 external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4423719'
 excerpt: ''
 venue: ''
