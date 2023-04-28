@@ -2,7 +2,7 @@
 title: 'Performance Measurement of Crypto Funds'
 collection: wp
 date: 2023-04-09
-external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4403360'
+external_url: 'https://doi.org/10.1016/j.econlet.2023.111118'
 excerpt: ''
 venue: ''
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4403360'
