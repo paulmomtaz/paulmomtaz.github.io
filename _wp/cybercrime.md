@@ -1,7 +1,7 @@
 ---
 title: 'Cybercrime on the Ethereum Blockchain'
 collection: wp
-date: 2023-04-19
+date: 2023-10-05
 external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4527415'
 excerpt: ''
 venue: ''
