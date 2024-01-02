@@ -1,7 +1,7 @@
 ---
 title: 'Academic Freedom and Innovation'
 collection: wp
-date: 2023-03-12
+date: 2024-01-02
 external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4384419'
 excerpt: ''
 venue: ''
