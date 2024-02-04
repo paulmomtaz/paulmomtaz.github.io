@@ -1,11 +1,12 @@
 ---
 title: 'Performance Measurement of Crypto Funds'
-collection: wp
+collection: publications
 date: 2023-04-09
 external_url: 'https://doi.org/10.1016/j.econlet.2023.111118'
 excerpt: ''
 venue: ''
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4403360'
+abstracturl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4403360'
 journal: 'Economics Letters, Accepted (with N. Dombrowski, <a href="https://www.bwl.uni-hamburg.de/finance/team/drobetz.html">W. Drobetz</a>)'
 version: ''
 abstract: 'Crypto funds (CFs) are a growing intermediary in cryptocurrency markets. We evaluate CF performance using metrics based on alphas, value at risk, lower partial moments,
