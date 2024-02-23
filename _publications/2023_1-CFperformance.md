@@ -6,6 +6,7 @@ external_url: 'https://doi.org/10.1016/j.econlet.2023.111118'
 excerpt: ''
 venue: ''
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4403360'
+abstracturl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4403360'
 externalabstract: true
 journal: '<b>Economics Letters, 2023</b> (with N. Dombrowski, <a href="https://www.bwl.uni-hamburg.de/finance/team/drobetz.html">W. Drobetz</a>)'
 version: ''
