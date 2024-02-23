@@ -7,7 +7,7 @@ excerpt: ''
 venue: ''
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4403360'
 externalabstract: true
-journal: '<b>Economics Letters</b>, 2023 (with N. Dombrowski, <a href="https://www.bwl.uni-hamburg.de/finance/team/drobetz.html">W. Drobetz</a>)'
+journal: '<b>Economics Letters, 2023</b> (with N. Dombrowski, <a href="https://www.bwl.uni-hamburg.de/finance/team/drobetz.html">W. Drobetz</a>)'
 version: ''
 abstract: 'Crypto funds (CFs) are a growing intermediary in cryptocurrency markets. We evaluate CF performance using metrics based on alphas, value at risk, lower partial moments,
 and maximum drawdown. The performance of actively managed CFs is heterogenous: While the average fund in our sample does not outperform the overall cryptocurrency
