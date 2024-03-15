@@ -1,7 +1,7 @@
 ---
 title: 'The Economic Costs of the Russia-Ukraine War: A Synthetic Control Study of (Lost) Entrepreneurship'
 collection: wp
-date: 2023-03-05
+date: 2024-03-15
 external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4378827'
 excerpt: ''
 venue: ''
