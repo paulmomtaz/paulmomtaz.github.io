@@ -1,5 +1,5 @@
 ---
-title: 'Token-Based Crowdfunding: Investor Choice and the Optimal Timing of Initial Coin Offerings (ICOs)'
+title: 'Token-Based Crowdfunding: Investor Choice and the Optimal Timing of Initial Coin Offerings'
 collection: publications
 date: 2024-04-20
 external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4431384'
