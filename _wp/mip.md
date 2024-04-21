@@ -1,12 +1,12 @@
 ---
-title: 'The Labor Economics of Inventing'
+title: 'Inventor Returns and Mobility'
 collection: wp
 date: 2023-03-10
-external_url: ''
+external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795980'
 excerpt: ''
 venue: ''
-paperurl: ''
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795980'
 journal: '(with <a href="https://scholar.google.at/citations?user=ynOX69wAAAAJ">D. Harhoff</a>, <a href="https://www.david-heller.com/">D. Heller</a>)'
 version: ''
-abstract: 'The majority of inventions generated in modern economies are developed by employed individuals on the behalf of their employer. This paper provides first representative evidence on the marginal income per patent (MIP) to employed inventors. To this end, we explore administrative data for a representative sample of 148,743 unique inventors in Germany linked to their income and patenting activities. We find the average inventor earns a MIP of 7% per annum over the patent lifecycle. These results are particularly pronounced for high quality patents and in firms for which the marginal contribution of patents is high. Moreover, exploring the labor mobility effects of across-firm variation in the MIP, we find that firms that pay above-average premium recruit a higher number of high-quality inventors.'
+abstract: 'We show that firm and industry, rather than inventor and invention factors, explain more than half of the variation in inventor returns in administrative employer-inventor-patent linked data from Germany. Between-firm variation in inventive rents is strongly associated with inventor mobility. Inventors are more likely to make a move just before a patent is filed than shortly thereafter and benefit from their move through a mobility-related marginal inventor return. Employers that pay inventor returns in excess of the expected return gain a favorable position in the market for inventive labor with subsequent increases in patent quality and quantity. Consistent with theoretical arguments, these results are sensitive to employers' technological complementarity and degree of competition, and invention quality.'
 ---
