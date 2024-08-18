@@ -2,7 +2,7 @@
 title: 'Token-Based Crowdfunding: Investor Choice and the Optimal Timing of Initial Coin Offerings'
 collection: publications
 date: 2024-04-20
-external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4431384'
+external_url: 'https://doi.org/10.1177/10422587241261625'
 excerpt: ''
 venue: ''
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4431384'
