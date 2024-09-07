@@ -1,7 +1,7 @@
 ---
 title: 'Financing Decentralized Digital Platform Growth: The Role of Crypto Funds in Blockchain-based Startups'
-collection: wp
-date: 2024-04-17
+collection: publications
+date: 2024-08-17
 external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4102295'
 excerpt: ''
 venue: ''
