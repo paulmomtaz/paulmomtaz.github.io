@@ -1,7 +1,7 @@
 ---
 title: 'Violent Conflict and (Necessity) Entrepreneurship: An Institutional and Socio-Cognitive Perspective'
 collection: wp
-date: 2023-10-05
+date: 2024-01-01
 external_url: ''
 excerpt: ''
 venue: ''
