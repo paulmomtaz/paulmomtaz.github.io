@@ -1,5 +1,5 @@
 ---
-title: 'Non-Practicing Entities as Financial Intermediaries in the Market for Technology: A Case Study of Silicon Valley'
+title: 'Non-Practicing Entities as Financial Intermediaries in the Market for Technology: A Case Study of Silicon Valley’s Brokered Patent Market'
 collection: wp
 date: 2025-02-15
 external_url: ''
