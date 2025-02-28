@@ -1,7 +1,7 @@
 ---
 title: 'Entrepreneurial Finance and Sustainability: Do Institutional Investors Impact the ESG Performance of SMEs?'
 collection: publications
-date: 2024-08-16
+date: 2024-08-15
 external_url: 'https://doi.org/10.1016/j.jbvi.2024.e00498'
 excerpt: ''
 venue: ''
