@@ -1,7 +1,7 @@
 ---
 title: 'Token-Based Crowdfunding: Investor Choice and the Optimal Timing of Initial Coin Offerings'
 collection: publications
-date: 2024-08-15
+date: 2024-08-16
 external_url: 'https://doi.org/10.1177/10422587241261625'
 excerpt: ''
 venue: ''
