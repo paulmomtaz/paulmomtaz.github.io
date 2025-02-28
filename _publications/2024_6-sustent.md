@@ -1,7 +1,7 @@
 ---
 title: 'Is Sustainable Entrepreneurship Profitable? ESG Disclosure and the Financial Performance of SMEs'
 collection: publications
-date: 2024-08-15
+date: 2024-08-14
 external_url: 'https://rdcu.be/d2NwW'
 excerpt: ''
 venue: ''
