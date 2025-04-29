@@ -5,7 +5,6 @@ date: 2025-04-27
 external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795344'
 excerpt: ''
 venue: ''
-version: ''
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795344'
 journal: 'R&R at Research Policy (with <a href="https://scholar.google.com/citations?user=f-lbbOoAAAAJ&hl=en&oi=ao">D. Audretsch</a>, <a href="https://www.bwl.uni-hamburg.de/finance/team/drobetz.html">W. Drobetz</a>, E.E. Ernst, <a href="https://scholar.google.com/citations?hl=en&user=Sa8sBkoAAAAJ">S. Vismara</a>)'
 version: '→ Coverage: <i><a href="https://www.rndtoday.co.uk/rd-strategy/a-hurdle-rate-theory-of-rd-procyclicality/">R&D Today</a></i>'
