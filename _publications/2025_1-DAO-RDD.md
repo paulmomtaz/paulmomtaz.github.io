@@ -1,7 +1,7 @@
 ---
 title: 'Distributed Governance and Value Creation in Decentralized Autonomous Organizations: Evidence from a Regression Discontinuity Design'
 collection: publications
-date: 
+date: '2025-03-15'
 external_url: 'https://doi.org/10.1016/j.econlet.2025.112233'
 excerpt: ''
 venue: ''
