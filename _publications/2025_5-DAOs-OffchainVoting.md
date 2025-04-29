@@ -1,6 +1,7 @@
 ---
 title: 'Voting Governance and Value Creation in Decentralized Autonomous Organizations (DAOs)'
 collection: publications
+date: 
 external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5040478'
 excerpt: ''
 venue: ''
