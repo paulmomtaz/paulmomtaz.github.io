@@ -1,6 +1,7 @@
 ---
 title: 'Cybercrime on the Ethereum Blockchain'
 collection: publications
+date: 
 external_url: 'https://doi.org/10.1016/j.jbankfin.2025.107419'
 excerpt: ''
 venue: ''
