@@ -2,7 +2,7 @@
 title: 'Voting Governance and Value Creation in Decentralized Autonomous Organizations (DAOs)'
 collection: publications
 date: 2025-03-12
-external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5040478'
+external_url: 'https://doi.org/10.1016/j.jbvi.2025.e00537'
 excerpt: ''
 venue: ''
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5040478'
