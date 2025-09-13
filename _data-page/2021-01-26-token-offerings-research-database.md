@@ -22,4 +22,4 @@ Version control:
 
 [TORD_V3_VariableDefinitions.xlsx](/files/TORD_v3_variabledefinitions.xlsx)
 
-Acknowledgements: Many colleagues have helped to contribute to the TORD, either by rectifying data entries or by providing additional data. I am particularly grateful to Alessandro Bitetto, Niclas Dombrowski, and Daniel Liebau.
+Acknowledgements: Many colleagues have helped to contribute to the TORD, either by rectifying data entries or by providing additional data. I am particularly grateful to Alessandro Bitetto, Niclas Dombrowski, Daniel Liebau, and Johannes Fuchs.
