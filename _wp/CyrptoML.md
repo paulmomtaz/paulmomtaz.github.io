@@ -1,5 +1,5 @@
 ---
-title: 'Cryptocurrency Return Prediction with Generative Artificial Intelligence'
+title: 'Generative Artificial Intelligence and Cryptocurrency Returns'
 collection: wp
 date: 2025-04-26
 external_url: ''
