@@ -6,7 +6,7 @@ external_url: ''
 excerpt: ''
 venue: ''
 paperurl: ''
-journal: 'R&R at Journal of International Business Studies'
+journal: 'R&R at Journal of International Business Studies (with W. Drobetz, S. El Ghoul, O. Guedhami, M. Kolbe)'
 version: ''
 abstract: '[Title and abstract modified for anonymity.] We provide a theoretical explanation and empirical evidence for the puzzling fact that, in contrast to the risk-return theory of finance, ESG risks lead to lower equity returns in private markets.'
 ---
