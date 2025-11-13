@@ -3,7 +3,7 @@ title: 'Venture Tokenization and Growth'
 collection: wp
 date: 2025-11-12
 external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5252536'
-excerpt: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5252536'
+excerpt: ''
 venue: ''
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5252536'
 journal: 'Rej&R at Strategic Entrepreneurship Journal (with J. Fuchs)'
