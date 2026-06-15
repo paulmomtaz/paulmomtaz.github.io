@@ -1,7 +1,7 @@
 ---
 title: 'Financing Innvation: A Hurdle Rate Theory of Inventive Procyclicality'
 collection: publications
-date: 2026-05-05
+date: 2026-05-06
 external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6904018'
 excerpt: ''
 venue: ''
