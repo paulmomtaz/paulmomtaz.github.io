@@ -1,7 +1,7 @@
 ---
 title: 'Social learning in decentralized autonomous organizations (DAOs)'
 collection: wp
-date: 2025-11-12
+date: 2026-05-12
 external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5258152'
 excerpt: ''
 venue: ''
