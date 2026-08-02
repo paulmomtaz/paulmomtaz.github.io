@@ -1,8 +1,8 @@
 ---
 title: 'Financing Innovation: A Hurdle Rate Theory of Inventive Procyclicality'
 collection: publications
-date: 2026-05-06
-external_url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6904018'
+date: 2026-08-01
+external_url: 'https://doi.org/10.1016/j.respol.2026.105565'
 excerpt: ''
 venue: ''
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6904018'
